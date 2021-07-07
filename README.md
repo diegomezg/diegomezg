@@ -42,4 +42,7 @@ Here are some ideas to get you started:
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/diegomezg"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="diegomezg" /></a></p><br><br>
 
+<p><a href="https://www.paypal.me/diegomezg09"> <img align="left" src="http://newsroom.mastercard.com/wp-content/uploads/2016/09/paypal-logo.png" height="50" width="210" alt="diegomezg" /></a></p><br><br>
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=diegomezg&show_icons=true&locale=en" alt="diegomezg" /></p>
