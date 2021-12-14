@@ -21,9 +21,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Digital On Us](https://www.digitalonus.com/)
 
-- 🌱 I’m currently learning **K8s, Vault & Terraform**
+- 🌱 I’m currently learning **Azure**
 
-- 👯 I’m looking to collaborate on **Fintech/Crypto projects**
+- 👯 I’m looking to collaborate on **Fintech companies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/diegomezg](https://github.com/diegomezg)
 
