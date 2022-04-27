@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegomezg&label=Profile%20views&color=0e75b6&style=flat" alt="diegomezg" /> </p>
 
-- 🔭 I’m currently working on [Digital On Us](https://www.digitalonus.com/)
+- 🔭 I’m currently working on [EPAM Systems](https://www.epam.com/)
 
 - 🌱 I’m currently learning **Azure**
 
